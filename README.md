@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raj%20Vardhan%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Raj%20Vardhan%20Kumar&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20and%20Distributed%20Systems%20Engineer&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+%26+Distributed+Systems+Engineer;C%2B%2B+%7C+Full-Stack+Developer;Building+Self-Healing%2C+Fault-Tolerant+Systems;Competitive+Programmer+%7C+400%2B+DSA+Problems" alt="Typing SVG" />
 
@@ -174,12 +174,6 @@ Architected and shipped a full-stack platform for an NGO tracking beneficiaries 
 
 ---
 
-## 📜 Certifications
-
-> No certifications were listed on the source resume — add your AWS / Oracle / NPTEL / Cisco badges here as you earn them.
-
----
-
 ## 💻 Coding Profiles
 
 <div align="center">
@@ -187,7 +181,6 @@ Architected and shipped a full-stack platform for an NGO tracking beneficiaries 
 [![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Venompro)
 [![Codeforces](https://img.shields.io/badge/Codeforces-4C1D95?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/VenomMax)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/YOUR_CODECHEF_USERNAME)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME)
 
 </div>
 
@@ -198,7 +191,7 @@ Architected and shipped a full-stack platform for an NGO tracking beneficiaries 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=rajvardhan-git-sys&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajvardhan-git-sys&theme=radical&hide_border=true&background=0d0221&stroke=A78BFA&ring=7C3AED&fire=6D28D9" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=rajvardhan-git-sys&theme=radical&hide_border=true&background=0d0221&stroke=A78BFA&ring=7C3AED&fire=6D28D9" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-git-sys&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="45%"/>
 
