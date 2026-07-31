@@ -186,28 +186,9 @@ Architected and shipped a full-stack platform for an NGO tracking beneficiaries 
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajvardhan-git-sys&show_icons=true&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&icon_color=7C3AED&text_color=c9d1d9" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=rajvardhan-git-sys&theme=radical&hide_border=true&background=0d0221&stroke=A78BFA&ring=7C3AED&fire=6D28D9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajvardhan-git-sys&layout=compact&theme=radical&hide_border=true&bg_color=0d0221&title_color=A78BFA&text_color=c9d1d9" width="45%"/>
-
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajvardhan-git-sys&theme=algolia&no-frame=true&margin-w=10&column=7" />
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
